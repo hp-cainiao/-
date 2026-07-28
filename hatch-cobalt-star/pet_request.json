@@ -1,0 +1,58 @@
+{
+  "pet_id": "cobalt-star",
+  "display_name": "钴星",
+  "description": "一只沉稳、专注又带一点小骄傲的星冠机甲守卫，喜欢把复杂任务收拾得干净利落。",
+  "source": "C:\\Users\\rhp18\\.codex\\pets\\cobalt-star",
+  "cell": {
+    "width": 192,
+    "height": 208
+  },
+  "states": [
+    {
+      "state": "idle",
+      "frames": 7,
+      "standard_frames": 6
+    },
+    {
+      "state": "running-right",
+      "frames": 8,
+      "standard_frames": 8
+    },
+    {
+      "state": "running-left",
+      "frames": 8,
+      "standard_frames": 8
+    },
+    {
+      "state": "waving",
+      "frames": 4,
+      "standard_frames": 4
+    },
+    {
+      "state": "jumping",
+      "frames": 5,
+      "standard_frames": 5
+    },
+    {
+      "state": "failed",
+      "frames": 8,
+      "standard_frames": 8
+    },
+    {
+      "state": "waiting",
+      "frames": 6,
+      "standard_frames": 6
+    },
+    {
+      "state": "running",
+      "frames": 6,
+      "standard_frames": 6
+    },
+    {
+      "state": "review",
+      "frames": 6,
+      "standard_frames": 6
+    }
+  ],
+  "spriteVersionNumber": 2
+}
